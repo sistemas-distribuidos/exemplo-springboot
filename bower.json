@@ -1,0 +1,25 @@
+{
+  "name": "exemplo",
+  "authors": [
+    "Romulo Fagundes Cantanhede <romulo.fagundes@webonesystem.com.br>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "font-awesome": "fontawesome#^4.7.0",
+    "bootstrap": "^3.3.7",
+    "vue": "^2.2.6",
+    "vue-resource": "^1.3.0"
+  }
+}
+
